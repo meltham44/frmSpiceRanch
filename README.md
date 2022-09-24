@@ -3,7 +3,7 @@
 
 A food ordering form for fictional takeaway, "Spice Ranch". Written in VB.NET.
 ## Requirements
-Microsoft Visual Studio with [.NET Framework 4.6.1 Developer Pack](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net461)
+[Microsoft Visual Studio](https://visualstudio.microsoft.com/downloads/) with [.NET Framework 4.6.1 Developer Pack](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net461)
 ## Getting Started
 * Clone the repo locally and open frmSpiceRanch.sln within Visual Studio and the project will open.
 * Run the project.
