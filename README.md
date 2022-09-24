@@ -1,5 +1,5 @@
 # frmSpiceRanch
-> Programmning project completed for Pearson BTEC Level 3 Extended Diploma in IT.
+> Programmning project completed for Pearson BTEC Level 3 Extended Diploma in IT - Unit 14 Event-Driven Programming.
 
 A food ordering form for fictional company, "Spice Ranch". Writen in VB.NET.
 ## Requirements
